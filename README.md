@@ -28,4 +28,5 @@ To install AnimatedRobotIcon, follow these steps:
 Here's a basic example of how to use the AnimatedRobotIcon component in your application:
 
 ```javascript
-<AnimatedRobotIcon static={false} />
+<AnimatedRobotIcon staticImageSrc="chat-avatar.png" useLottie={false}/>}
+<AnimatedRobotIcon useLottie={true}/>}
